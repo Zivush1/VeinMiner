@@ -1,0 +1,5 @@
+name: VeinMiner
+version: '${project.version}'
+main: me.zivush.veinminer.VeinMiner
+api-version: '1.20'
+description: A plugin that allows players to mine entire veins of ore when sneaking.
